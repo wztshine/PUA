@@ -54,7 +54,7 @@ class Logger(object):
         return self.logger.critical(msg)
 
 if __name__ == '__main__':
-    logger = Logger('test','testlog')
+    logger = Logger('test','TestLogger')
     logger.info("creating an logger.")
 
 
