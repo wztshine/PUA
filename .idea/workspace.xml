@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be1c1fd5-7304-4ce1-a800-5ce20ead3c5b" name="Default Changelist" comment="" />
+    <list default="true" id="be1c1fd5-7304-4ce1-a800-5ce20ead3c5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locator/Settings_locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locator/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Settings_Pages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_cases/Test_Cal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_cases/Test_Settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_result/2021-03-07 14-46-44/Report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_result/2021-03-07 14-46-44/Test_Settings.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_result/2021-03-07 14-53-35/Report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_result/2021-03-07 14-53-35/Test_Settings.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_result/2021-03-07 14-54-41/Report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_result/2021-03-07 14-54-41/Test_Settings.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_result/2021-03-07 15-13-43/Report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_result/2021-03-07 15-13-43/Test_Settings.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_result/2021-03-07 15-15-53/Report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_result/2021-03-07 15-15-53/Test_Cal.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_result/2021-03-07 15-15-53/Test_Settings.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useless/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useless/element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useless/locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useless/page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useless/search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useless/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/BasePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/BaseTestCase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/HTMLTestRunner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/Singleton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/TestLogger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/configParse.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +121,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -312,6 +352,7 @@
       <workItem from="1615001242338" duration="17854000" />
       <workItem from="1615082503941" duration="17710000" />
       <workItem from="1615102205959" duration="44000" />
+      <workItem from="1615102380314" duration="513000" />
     </task>
     <servers />
   </component>
@@ -348,12 +389,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96109000" />
+    <option name="totallyTimeSpent" value="96622000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19440243" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19742814" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -638,13 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -652,6 +687,13 @@
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
         </state>
       </provider>
     </entry>
