@@ -2,5 +2,5 @@ project_path = C:\Users\wztshine\Desktop\PUA # 项目的绝对路径
 test_cases_path = test_cases    # 测试用例路径
 temp_log_path = temp_log # 临时log路径，如果下面的log路径没有设置值，会用这个文件夹临时存放log
 result_path = test_result # 测试结果路径
-log_path = test_result\2021-03-07 18-54-26  # 可以为空，当从run.py运行用例时，会自动更改这个目录，然后把log放到这个文件夹下
+log_path = test_result\2021-03-14 17-43-40  # 可以为空，当从run.py运行用例时，会自动更改这个目录，然后把log放到这个文件夹下
 
